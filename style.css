@@ -5,10 +5,25 @@
 
 div{
     border: 1px gray solid;
+    width: 10rem;
+    height: 25rem;
+    margin: 1rem auto;
+    padding: .5rem;
+    box-shadow: .5rem .5rem .9rem .5rem gray;
+}
+img{
+    width: 9.5rem;
+    height: 7rem;
+    margin: 0 0 0 .25rem;
 }
 p {
-    color: red;
-    background-color: yellow;
-    width: 150px;
-    height: 150px;
+    width: 9.5rem;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    border: none;
+    width: 4rem;
+    height: 2rem;
 }
